@@ -10,6 +10,7 @@ para alavancar ainda mais meus conhecimentos.
 <a href="https://www.java.com/" title="Java"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="21px" height="21px"></a>
 <a href="https://spring.io/" title="Spring"><img src="https://github.com/get-icon/geticon/raw/master/icons/spring.svg" alt="Spring" width="21px" height="21px"></a>
 <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="21px" height="21px"></a>
+<a href="https://flutter.dev/" title="Flutter"><img src="https://github.com/get-icon/geticon/raw/master/icons/flutter.svg" alt="Flutter" width="21px" height="21px"></a>
 
 Meu objetivo não é parar por aí, penso em cada vez mais desenvolver aplicativos com foco de ser simples, resolvendo processos que as
 pessoas precisam ter durante o dia a dia.
