@@ -19,10 +19,10 @@ Caso fique interessado, queira contribuir ou começar um projeto novo, não hesi
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=llFurtll&show_icons=true&theme=dracula)
 
-Se você leu até aqui não deixe de avaliar meu aplicativo Note, dê uma olhada, opine e de sua nota, isso me ajudará a cada dia mais trazer novidades
+Se você leu até aqui não deixe de avaliar meu aplicativo EasyNote, dê uma olhada, opine e de sua nota, isso me ajudará a cada dia mais trazer novidades
 para os aplicativos.
 <br>
-<a href="https://play.google.com/store/apps/details?id=com.daniel.note&pli=1" target="new"><b>Note</b></a>
+<a href="https://play.google.com/store/apps/details?id=com.daniel.note&pli=1" target="new"><b>EasyNote</b></a>
 
 E também é claro, se quiser realizar alguma doação ficarei muito grato.
 <br>
