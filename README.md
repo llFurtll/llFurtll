@@ -1,7 +1,8 @@
 # Olá pessoal! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Meu nome é Daniel Melonari, trabalho com desenvolvimento de software a mais de dois anos e a cada dia estou buscando mais conhecimentos
-para alavancar ainda mais meus conhecimentos.
+Sou um profissional engajado e dedicado, com um forte compromisso em impulsionar a colaboração e o crescimento mútuo dentro de minha equipe. Meu estilo de liderança é pautado pela partilha de conhecimento, diálogo construtivo e uma escuta ativa, sempre com o objetivo de alcançar as melhores soluções coletivas.
+
+No âmbito técnico, atuo como Full Stack Developer, com especialização em desenvolvimento mobile utilizando Flutter. Possuo ampla experiência nas funções de desenvolvedor, analista de sistemas, tech lead e arquiteto de software, habilidades que me permitem contribuir de forma significativa para os projetos e objetivos da empresa.
 
 <b>Algumas tecnlologias que trabalho e utilizo atualmente</b>
 <br>
